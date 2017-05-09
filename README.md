@@ -2,6 +2,7 @@
 
 > Clippy for Compass
 
+
 ## Installation
 
 Clone this into your `~/.mongodb/compass/plugins/` folder
