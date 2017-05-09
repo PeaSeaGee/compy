@@ -2,6 +2,7 @@
 
 > Clippy for Compass
 
+
 ## Installation
 
 TODO
