@@ -4,11 +4,11 @@
 
 ## Installation
 
-TODO
+Clone this into your `~/.mongodb/compass/plugins/` folder
 
 ## Usage
 
-TODO
+Once installed, Compy will provide hints and tips for using MongoDB Compass
 
 ## License
 
